@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 1784223117350305384}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2, y: 0, z: 0}
-  m_LocalScale: {x: 0.32236886, y: 0.32236886, z: 0}
+  m_LocalScale: {x: 3.364696, y: 3.364696, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1524412162417054026}
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _onAsteroidDestroyed: {fileID: 11400000, guid: 6194a1f60d68f9f4da5519ce74b63a58, type: 2}
-  _asteroidType: {fileID: 11400000, guid: 7465def6fd2016e48851484a3af316ab, type: 2}
+  _asteroidType: {fileID: 11400000, guid: 59a7ca5a8e138b746bc49ddd929e5c69, type: 2}
   _sprite: {fileID: 7434321719335165977}
 --- !u!50 &1784223117350305362
 Rigidbody2D:
